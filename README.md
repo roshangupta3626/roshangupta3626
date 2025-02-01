@@ -1,5 +1,8 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Roshan Gupta</h1>
-<h1 align="center">Web Developer and UI & UX Design</h1>
+<h3 align="center">A passionate frontend developer and UI & UX Design from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramgopal99&label=Profile%20views&color=0e75b6&style=flat" alt="ramgopal99" /> </p>
+
 
 <h4>Education<br>I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science Engineering with a specialization in Web Development at Lovely Professional University, in my third year.<br><br>💼 Professional Experience<br>I am a professional freelancer with expertise in web development. I have successfully completed a client project involving comprehensive UI/UX design and live project web development. My skills include:<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Node.js, PHP, SQL, MongoDB<br><br>Programming Languages: C++, Java, Python<br><br>Tools & Technologies: Git, GitHub, Docker<br><br>🏆 Achievements<br>Successfully completed over 250+ questions on GeeksforGeeks and LeetCode, enhancing my problem-solving skills.<br><br>Winner of hackathons, demonstrating proficiency in React, PHP, Java, C++, Python, SQL, DBMS, and UI/UX design.<br><br>📈 Projects<br>Client Website Project: Developed a complete website for a client, including necessary documentation for UI and design, resulting in a fully functional and visually appealing web application.<br><br>🌐 Skills & Expertise<br>Data Structures and Algorithms (DSA)<br><br>Frontend and Backend Web Development<br><br>UI/UX Design<br><br>Database Management Systems (DBMS)<br><br>Computer Networks<br><br>🚀 Hackathons & Competitions<br>Active participant and winner in various hackathons, showcasing strong technical skills and innovative solutions.
 </h4>
